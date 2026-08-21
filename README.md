@@ -25,7 +25,7 @@ The goal is to transform raw customer data into meaningful insights that can sup
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Python** – Data cleaning and preprocessing
 * **Pandas** – Data manipulation
@@ -110,7 +110,7 @@ Based on the analysis, businesses can:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Customer-Behavior-Analysis/
@@ -135,7 +135,7 @@ Customer-Behavior-Analysis/
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 **Python | Pandas | SQL | MySQL | Power BI | Data Cleaning | Data Analysis | Data Visualization | Business Intelligence | Customer Analytics**
 
